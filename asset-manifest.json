@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/webhook-test-ui/static/css/main.f855e6bc.css",
+    "main.js": "/webhook-test-ui/static/js/main.c7d07637.js",
+    "static/js/453.79baab1e.chunk.js": "/webhook-test-ui/static/js/453.79baab1e.chunk.js",
+    "index.html": "/webhook-test-ui/index.html",
+    "main.f855e6bc.css.map": "/webhook-test-ui/static/css/main.f855e6bc.css.map",
+    "main.c7d07637.js.map": "/webhook-test-ui/static/js/main.c7d07637.js.map",
+    "453.79baab1e.chunk.js.map": "/webhook-test-ui/static/js/453.79baab1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c7d07637.js"
+  ]
+}
